@@ -1,0 +1,15 @@
+{
+  "name": "copywriter-website",
+  "version": "1.0.0",
+  "description": "It's a website, dude.",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vanshika Gulati",
+  "license": "ISC"
+}
